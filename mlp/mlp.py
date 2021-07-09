@@ -1,3 +1,6 @@
+# Code for MLP model
+# Learning from Machine Learning: An Algorithmic Perspective book
+# Created by Thai Tran
 
 import numpy as np
 
